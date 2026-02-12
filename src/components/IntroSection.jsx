@@ -79,7 +79,7 @@ const IntroSection = ({ onComplete, config }) => {
             className="intro-step"
           >
             <p className="intro-text">
-              I know you're angry with me... and you're absolutely right.
+              I know you're angry with me... and #NYK-333547161-2143556
             </p>
           </motion.div>
         )}
